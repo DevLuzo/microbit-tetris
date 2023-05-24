@@ -1,5 +1,4 @@
-
-> 이 페이지를 [https://DevLuzo.github.io/microbit-tetris/](https://DevLuzo.github.io/microbit-tetris/)으로 열기
+> 이 페이지를 [https://DevLuzo.github.io/tetris/] 으로 열기
 
 ## 확장으로 사용
 
